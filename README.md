@@ -1,2 +1,3 @@
-# LING-226-vuw
-Course material for Special Topic: Introduction to Computational Linguistics (LING 226)
+# LING 226 Notebooks
+
+Google Colab notebooks for LING 226 + other linguistic resources
