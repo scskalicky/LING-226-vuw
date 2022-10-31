@@ -1,4 +1,5 @@
 # What is a Google Colab Notebook?
+A very brief description of Colab notebooks
 
 - Jupyter Notebooks
     - Combined text + code
@@ -60,7 +61,3 @@ A code cell which has encountered an error (red ! and error message)
 - Sometimes the output of a code cell can get quite long. One quick solution is that you can click the "x" to clear the output. 
 
 ![clear_colab_output](https://user-images.githubusercontent.com/16119098/193930237-80aeeb09-991e-40b1-844c-675e102a9962.gif)
-
-
-
-
