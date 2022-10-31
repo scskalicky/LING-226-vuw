@@ -1,5 +1,5 @@
 # LING 226 2022 Workshop Schedule
-> Mondays: KK (Kirk) 204
+> Mondays: KK (Kirk) 204   
 > Thursdays: TTR (Te Toki a Rata) 104
 
 ## Week 1
