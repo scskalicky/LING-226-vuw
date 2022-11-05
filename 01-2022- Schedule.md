@@ -2,12 +2,21 @@
 > Mondays: KK (Kirk) 204   
 > Thursdays: TTR (Te Toki a Rata) 104
 
+Work backwards from each of the SPR . . . 
+- 
+
 ## Week 1
 - Monday, 14 November
+    - Python
+    - NLTK: 
 - Thursday, 17 November
+    - Python
+    - NLTK: is TTR a good measure of lexical diversity? 
 
 ## Week 2
 - Monday, 21 November
+    - Python
+    - NLTK
 - Thursday, 24 November
 
 ## Week 3
@@ -26,3 +35,13 @@
 - Thursday, 15 December
     - Workshopping Short Program 2
 ### (Short Program + Reflection due 20 December)
+
+
+Teaching Notebooks (do this on your own)
+Workshop Notebooks (do this on your own or in the workshop)
+
+What do students do outside of the workshops? 
+    - complete exercises?
+    - read?
+    - work through material?
+    - watch videos? 
