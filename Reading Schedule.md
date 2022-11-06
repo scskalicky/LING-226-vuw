@@ -1,3 +1,0 @@
-# Reading Schedule
-
-Weekyl s
