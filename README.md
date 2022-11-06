@@ -18,8 +18,8 @@ self study | 05 conditional expressions | [Chapter 1, Section 4](https://www.nlt
 self study | 06 getting loopy | [Chapter 1, Section 4](https://www.nltk.org/book/ch01.html#control_index_term)
 21 November | 07 word frequencies | [Chapter 1, Section 3.1 and 3.2](https://www.nltk.org/book/ch01.html#frequency_distribution_index_term)
 self study | 08 dictionaries | [Chapter 5 Section 3.1 and 3.2](https://www.nltk.org/book/ch05.html#sec-dictionaries)
-self study | 09 corpus resources [Chapter 2, Section 1](https://www.nltk.org/book/ch02.html)
-24 November | 10 conditional frequency distributions [Chapter 2, Section 2](https://www.nltk.org/book/ch02.html#conditional_frequency_distribution_index_term)
+self study | 09 corpus resources | [Chapter 2, Section 1](https://www.nltk.org/book/ch02.html)
+24 November | 10 conditional frequency distributions | [Chapter 2, Section 2](https://www.nltk.org/book/ch02.html#conditional_frequency_distribution_index_term)
 28 November | Assignment 01 Due
 tbd | tbd
 
