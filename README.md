@@ -1,6 +1,8 @@
 # LING 226 Notebooks
 
-This repo is designed to host material for LING 226 at VUW. The schedule below indicates the order in which to complete the notebooks. If the notebook has a specific date, that means we will go over that notebook in class during our workshop. If the notebook is associated with "self study", that means you are expected to complete the notebook on your own before the next workshop. 
+This repo is designed to host material for LING 226 at VUW. You can read `course-description.md` for some more information. 
+
+The schedule below indicates the order in which to complete the notebooks. If the notebook has a specific date, that means we will go over that notebook in class during our workshop. If the notebook is associated with "self study", that means you are expected to complete the notebook on your own before the next workshop. 
 
 For example, you should complete notebooks 02 and 03 *before* the workshop using notebook 04. 
 
