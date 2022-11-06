@@ -8,18 +8,18 @@ For example, you should complete notebooks 02 and 03 *before* the workshop using
 
 Here is the schedule for 2022:
 
-Date | Notebook
-----|----
-14 November 2022 | 01 values variables strings
-self study | 02 intro to NLTK
-self study | 03 lists and indexes
-17 November | 04 types and tokens
-self study | 05 conditional expressions
-self study | 06 getting loopy
-21 November | 07 word frequencies
-self study | 08 dictionaries
-self study | 09 corpus resources
-24 November | 10 conditional frequency distributions
+Date | Notebook | NLTK Book Readings
+----|----|----
+14 November 2022 | 01 values variables strings | n/a
+self study | 02 intro to NLTK | [Chapter 1, Section 1.1, 1.2 and 1.3](https://www.nltk.org/book/ch01.html)
+self study | 03 lists and indexes | [Chapter 1, Section 2](https://www.nltk.org/book/ch01.html#list_index_term)
+17 November | 04 types and tokens | [Chapter 1, Section 1.4](https://www.nltk.org/book/ch01.html#token_index_term)
+self study | 05 conditional expressions | [Chapter 1, Section 4](https://www.nltk.org/book/ch01.html#control_index_term)
+self study | 06 getting loopy | [Chapter 1, Section 4](https://www.nltk.org/book/ch01.html#control_index_term)
+21 November | 07 word frequencies | [Chapter 1, Section 3.1 and 3.2](https://www.nltk.org/book/ch01.html#frequency_distribution_index_term)
+self study | 08 dictionaries | [Chapter 5 Section 3.1 and 3.2](https://www.nltk.org/book/ch05.html#sec-dictionaries)
+self study | 09 corpus resources [Chapter 2, Section 1](https://www.nltk.org/book/ch02.html)
+24 November | 10 conditional frequency distributions [Chapter 2, Section 2](https://www.nltk.org/book/ch02.html#conditional_frequency_distribution_index_term)
 28 November | Assignment 01 Due
 tbd | tbd
 
