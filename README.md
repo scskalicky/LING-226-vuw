@@ -1,6 +1,6 @@
 # LING 226 Notebooks
 
-This repo is designed to host material for LING 226 at VUW. You can read `course-description.md` for some more information. 
+Repo for our LING 226 class at Te Herenga Waka Victoria University of Wellington. 
 
 The schedule below indicates the order in which to complete the notebooks. If the notebook has a specific date, that means we will go over that notebook in class during our workshop. If the notebook is associated with "self study", that means you are expected to complete the notebook on your own before the next workshop. 
 
