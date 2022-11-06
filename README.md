@@ -20,6 +20,7 @@ self study | 06 getting loopy
 self study | 08 dictionaries
 self study | 09 corpus resources
 24 November | conditional frequency distributions
+tbd | tbd
 
 
 
