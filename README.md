@@ -6,7 +6,7 @@ The schedule below indicates the order in which to complete the notebooks. If th
 
 For example, you should complete notebooks 02 and 03 *before* the workshop using notebook 04. 
 
-Here is the schedule for 2022:
+Here is the schedule for 2022 (not finished yet):
 
 Date | Notebook | NLTK Book Readings
 ----|----|----
