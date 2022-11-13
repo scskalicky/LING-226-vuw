@@ -22,8 +22,8 @@ self study | 09 corpus resources | [Chapter 2, Section 1](https://www.nltk.org/b
 **24 November 22** | 10 conditional frequency distributions | [Chapter 2, Section 2](https://www.nltk.org/book/ch02.html#conditional_frequency_distribution_index_term)
 **28 November 22** | Assignment 01 Due | all of the above!
 self study | 11 writing functions | [Chapter 2, Section 3.2](https://www.nltk.org/book/ch02.html#function_index_term)
-self study | 12 digging deeper | [Chapter 4, Section 4.2](https://www.nltk.org/book/ch04.html#tuple_index_term),[Real Python Enumerate](https://www.geeksforgeeks.org/enumerate-in-python/), [Real Python NamedTuple](https://realpython.com/python-namedtuple/)
-**28 November 22** | 13 bigrams and parts of speech | [Chapter 1, Section 3.3](https://www.nltk.org/book/ch01.html#bigrams_index_term), [Chapter 5, Section 1 and Section 2](https://www.nltk.org/book/ch05.html#parts_of_speech_index_term)
+self study | 12 digging deeper | [Chapter 4, Section 4.2](https://www.nltk.org/book/ch04.html#tuple_index_term)<br />[Real Python Enumerate](https://www.geeksforgeeks.org/enumerate-in-python/)<br />[Real Python NamedTuple](https://realpython.com/python-namedtuple/)
+**28 November 22** | 13 bigrams and parts of speech | [Chapter 1, Section 3.3](https://www.nltk.org/book/ch01.html#bigrams_index_term)<br />[Chapter 5, Section 1 and Section 2](https://www.nltk.org/book/ch05.html#parts_of_speech_index_term)
 
 
 
