@@ -2,6 +2,8 @@
 
 Repo for our LING 226 class at Te Herenga Waka Victoria University of Wellington. 
 
+**Please refer to instructions in Canvas for full details on how to use this material!**
+
 The schedule below indicates the order in which to complete the notebooks. If the notebook has a specific date, that means we will go over that notebook in class during our workshop. If the notebook is associated with "self study", that means you are expected to complete the notebook on your own before the next workshop. 
 
 For example, you should complete notebooks 02 and 03 *before* the workshop using notebook 04. 
