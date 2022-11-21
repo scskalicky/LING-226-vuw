@@ -29,6 +29,9 @@ self study | 12 digging deeper | [Chapter 4, Section 4.2](https://www.nltk.org/b
 self study | 14 doing more with dictionaries | [Chapter 5, Section 3](https://www.nltk.org/book/ch05.html#dictionary_index_term) <br /> [Geeks for Geeks DefaulDict](https://www.geeksforgeeks.org/defaultdict-in-python/)
 self study | 15 regular expressions | [Chapter 3, Section 3.4 and 3.5](https://www.nltk.org/book/ch03.html#sec-regular-expressions-word-patterns)
 **1 December 22** | 16 chunking with regex | [Chapter 7, Section 1 and 2](https://www.nltk.org/book/ch07.html)
+self study | 17 intro to wordnet | [Chapter 2, Section 5](https://www.nltk.org/book/ch02.html#wordnet_index_term)
+5 December | 18 wordnet workshop | [Chapter 2, Section 5](https://www.nltk.org/book/ch02.html#wordnet_index_term)
+
 
 
 
