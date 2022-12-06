@@ -35,3 +35,8 @@ self study | 19 NLTK Lexical resources | [Chapter 2, Section 4](https://www.nltk
 self study | 20 Additional Lexical Resources | None
 self study | 21 Word Sentiment | [Read or Skim VADER paper](https://ojs.aaai.org/index.php/ICWSM/article/view/14550/14399)
 **8 December** | 22 Using Lexical Resources | [*Please, please, just tell me*](https://journals.uic.edu/ojs/index.php/dad/article/view/11387/10030)<br />[Video Explanation of Paper](https://vstream.au.panopto.com/Panopto/Pages/Viewer.aspx?id=554acdba-a8cc-4c3b-8d00-adf500816e28)
+self study | 23 word probabilities and ngram models | nada
+**12 December** | 24 introduction to spaCy | nada
+**12 Decemmber** | 25 dependency grammar and spaCy | nada
+
+
