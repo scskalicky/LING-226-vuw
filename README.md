@@ -44,7 +44,7 @@ Before the course begins |- Colab tutorial notebooks|[Colab Tutorials](https://g
 *Self Study*|- 31 intro to spaCy|None|
 **Monday<br>11/12**|- 32 spaCy workshop|None|
 *Self Study*|- 33 word probabilities|None|
-*Self Study*|- 34 gensim & word2vec|None|
+*Self Study*|- 34 word vector models|None|
 **Wednesday<br>13/12**|- 35 vector workshop|None|
 **Friday<br>15/12**|- read Skalicky et al. (2022)<br>- 36 food stabber analysis|[Skalicky et al. 2022](https://nuku.wgtn.ac.nz/courses/8650/external_tools/1366)|
 **Monday<br>18/12**|- final project workshop 1|None|
