@@ -42,7 +42,7 @@ Before the course begins |- Colab tutorial notebooks|[Colab Tutorials](https://g
 **Wednesday<br>6/12**|- read Skalicky et al. (2020)<br>- 30 sentiment workshop|[Skalicky et al. 2020](https://nuku.wgtn.ac.nz/courses/8650/external_tools/1366)|
 **Friday<br>8/12**|- assignment 2 workshop|Assessment 2 **due** by 23:59|
 *Self Study*|- 31 intro to spaCy|None|
-**Monday<br>11/12**|- 32 spaCy workshop|None|
+**Monday<br>11/12**|- 32 more spaCy|None|
 *Self Study*|- 33 word probabilities|None|
 **Wednesday<br>13/12**|- 34 word vector models|None|
 **Friday<br>15/12**|- read Skalicky et al. (2022)<br>- 35 food stabber analysis|[Skalicky et al. 2022](https://nuku.wgtn.ac.nz/courses/8650/external_tools/1366)|
