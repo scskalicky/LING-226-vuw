@@ -1,26 +1,11 @@
 # What is a Google Colab Notebook?
-A very brief description of Colab notebooks
+A Google Colab notebook is an interactive notebook that lets you execute Python code within your web browser. The notebook has Python pre-installed, so you do not need to download or install anything to your computer. Another benefit of Colab notebooks is that you can also use them to write text, such as notes and descriptions that you would like to include with your code. 
 
-- Jupyter Notebooks
-    - Combined text + code
-    - Create reports, interactive documents, etc
-    - A series of “cells” in a notebook
+The notebooks created for this course all use a combination of text + code to explain and demonstrate the content. 
 
-- Text Cells
-    - cells which allow markdown format text, images, etc.
+Notebooks are a collection of independent "cells". Cells are either text cells (referred to as Markdown cells) or code cells. 
 
-- Code Cells
-    - cells which run code (i.e., Python)
-
-- Output Cells
-    - Temporary cells which produce output from a code cell
-
-- Colab Notebooks
-    - A special type of Jupyter notebook
-    - Python is pre-installed
-    - Many libraries and dependencies pre-installed
-    - Connects to Google Drive (can be useful for file input/output)
-
+To cre
 
 # Text Cells
 
@@ -61,3 +46,4 @@ A code cell which has encountered an error (red ! and error message)
 - Sometimes the output of a code cell can get quite long. One quick solution is that you can click the "x" to clear the output. 
 
 ![clear_colab_output](https://user-images.githubusercontent.com/16119098/193930237-80aeeb09-991e-40b1-844c-675e102a9962.gif)
+
