@@ -1,3 +1,3 @@
-content/corpus_a/file_one.txt categoryA
-content/corpus_a/file_two.txt categoryA
-content/corpus_b/file_three.txt categoryB
+corpus_a/file_one.txt categoryA
+corpus_a/file_two.txt categoryA
+corpus_b/file_three.txt categoryB
